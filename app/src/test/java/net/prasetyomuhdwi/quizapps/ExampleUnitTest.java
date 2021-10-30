@@ -1,4 +1,4 @@
-package net.prasetyomuhdwi.formapps;
+package net.prasetyomuhdwi.quizapps;
 
 import org.junit.Test;
 
